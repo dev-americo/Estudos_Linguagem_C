@@ -28,5 +28,5 @@ Sua tarefa é escrever um programa que imprima um log formatado identado, simula
 **Verificação do Retorno:**
 
 - Após rodar o programa, verifique o código de erro.
-  - Linux/Mac: Digite echo $? logo após rodar. Deve aparecer 255.
-  - Windows: Digite echo %ERRORLEVEL% logo após rodar. Deve aparecer 255.
+  - Linux/Mac: Digite ```echo $?``` logo após rodar. Deve aparecer 255.
+  - Windows: Digite ```echo %ERRORLEVEL%``` logo após rodar. Deve aparecer 255.
