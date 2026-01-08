@@ -1,4 +1,4 @@
-# Comentários e Estilo: // vs /* */
+# Topico 02 - Comentários e Estilo: // vs /* */
 
 Você acaba de herdar um código "Legacy" escrito por um estagiário que foi demitido. O código funciona, mas é ilegível: indentação quebrada, nomes de variáveis criptografados e comentários que insultam sua inteligência.
 
