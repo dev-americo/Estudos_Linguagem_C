@@ -1,6 +1,8 @@
+# Tópico 18 - Operador Ternário: A elegância do condição ? valor_se_v : valor_se_f.
+
 O operador ternário é o único operador do C que aceita três operandos. Ele é essencialmente um if/else que retorna um valor.
 
-Sintaxe: condição ? valor_se_verdadeiro : valor_se_falso
+`Sintaxe: condição ? valor_se_verdadeiro : valor_se_falso`
 
 **O Desafio**
 
